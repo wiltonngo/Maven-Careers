@@ -1,4 +1,4 @@
-# Job Search
+# Wages
 
 Hello Everyone,
 Excited to share my latest Data Analytics project. 
